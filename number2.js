@@ -26,3 +26,5 @@ console.log(parseFloat("10.34444455559999999").toFixed(8));
 
 console.log(parseFloat("10 years"));
 console.log(parseFloat("years 10"));
+
+console.log(new Date());
